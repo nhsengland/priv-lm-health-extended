@@ -1,4 +1,4 @@
-# Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models
+# Investigating Privacy Concerns and Mitigations for Healthcare Language and Foundation Models Extended
 ## NHS England Data Science Team - PhD Internship Project
 
 ### About the Project
